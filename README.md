@@ -1,5 +1,5 @@
 # HelloPurr
-**version: 1.0**
-* touch detection
-* sound
+**Version: 1.0**
+* Touch detection
+* Sound
 * Buttons to change the picture of the cat and animation it plays when pressing the main button
